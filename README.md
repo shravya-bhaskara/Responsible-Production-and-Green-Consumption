@@ -11,6 +11,9 @@
 - [The architecture](#the-architecture)
 - [Long Description](#long-description)
 - [Project Roadmap](#project-roadmap)
+- [Built with](#built-with)
+- [Contributing](#contributing)
+- [Authors](#authors)
 
 ## Short Description:
 
@@ -32,5 +35,24 @@ This project aims to establish a connection between the fishermen and the civic 
 ![The architectutre](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/images/architecture.png)
 
 ## Long Description:
-[Long description](
+[More detail is available here](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/docs/DESCRIPTION.md)
 
+## Project Roadmap:
+We were able to:
+  - Create the Node RED application that would receive messages, however everything couldn't be implemented yet.
+
+## Built With:
+- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results)
+- [Node RED (similar to zero-hunger-starter-kit)](https://github.com/Call-for-Code/Solution-Starter-Kit-Hunger-2021/tree/main/lab)
+- [Node RED - APP](https://cloud.ibm.com/developer/appservice/create-app?starterKit=59c9d5bd-4d31-3611-897a-f94eea80dc9f&defaultLanguage=undefined)
+- [Twilio-SMS](https://cloud.ibm.com/catalog/services/twilio-programmable-sms)
+
+## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct.
+
+## Authors:
+- [Arya R N](https://www.linkedin.com/in/aryarn?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPKQolg0URU%2BEkxTxzj8tyw%3D%3D)
+- [Shravya Bhaskara](https://www.linkedin.com/in/shravya-bhaskara-56277a1b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtfY0I1IORCKki2Wx4siP8Q%3D%3D)
+- [Pannaga Sreya](https://www.linkedin.com/in/pannaga-sreya-ukkalam-148775212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWYOsILBORmO8KdirT2IQSA%3D%3D)
+- [Arya Arun](https://www.linkedin.com/in/arya-arun-8566b3195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUQLWLraYRaq4NyZn2xOXCw%3D%3D)
+- [Aparna K]

@@ -29,4 +29,8 @@ This project aims to establish a connection between the fishermen and the civic 
 * The system makes use of Node RED feature. The fisherman shall send in an SMS or a photo and will be received with a small acknowledgement about whether if it was received or not. 
 
 ## The architecture:
-[The architectutre](
+[The architectutre](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/images/architecture.png)
+
+## Long Description:
+[Long description](
+

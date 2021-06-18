@@ -40,7 +40,7 @@ This project aims to establish a connection between the fishermen and the civic 
 ## Project Roadmap:
 We were able to:
   - Create the Node RED application that would receive messages, however everything couldn't be implemented yet.
-
+  - Our future aim is to complete the Twilio and the processing stages with image recognition and analysing and feedback SMS systems.
 ## Built With:
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results)
 - [Node RED (similar to zero-hunger-starter-kit)](https://github.com/Call-for-Code/Solution-Starter-Kit-Hunger-2021/tree/main/lab)

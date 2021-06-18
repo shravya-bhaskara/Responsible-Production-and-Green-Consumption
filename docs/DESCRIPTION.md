@@ -19,4 +19,14 @@ This project aims to establish a connection between the fishermen and the civic 
 Our aim was to create a service using all the IBM services provided so that proper communication could be ensured. However we weren't familiar with IBM cloud so completed doing the Node RED part and will work on the Twilio followed by the Processing part which includes image capture recognition and feedback SMS. 
 
 ### What did we accomplish in Node RED?
-![img1](
+* Flow 1
+![img1](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/images/Node%20RED/img1.jpg)
+* Data Flow
+![img2](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/images/Node%20RED/img2.jpg)
+* Interfaces
+![img3](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/images/Node%20RED/img3.jpg)
+* Our Dashboard
+![img4](https://github.com/shravya-bhaskara/Responsible-Production-and-Green-Consumption/blob/main/images/Node%20RED/img4.jpg)
+
+### Links referred for Node RED - App:
+- [link 1](https://github.com/Call-for-Code/Solution-Starter-Kit-Hunger-2021/tree/main/lab)

@@ -17,3 +17,6 @@ This project aims to establish a connection between the fishermen and the civic 
 
 ### Tackling the problem:
 Our aim was to create a service using all the IBM services provided so that proper communication could be ensured. However we weren't familiar with IBM cloud so completed doing the Node RED part and will work on the Twilio followed by the Processing part which includes image capture recognition and feedback SMS. 
+
+### What did we accomplish in Node RED?
+![img1](
